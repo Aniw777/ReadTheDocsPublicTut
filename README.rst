@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Stoopid Read the Docs Tutorial
+==============================
 
-WTL edited ! Yay
-
-GitHub template with fake Python library
-using some basic Sphinx docs.
+Fake Python library showing a few some basic Sphinx docs.
 
 Tutorial doc: https://docs.readthedocs.io/en/stable/tutorial/
