@@ -1,8 +1,8 @@
 """
-Lumache - Python library for cooks and food lovers.
+Lumache - Python library from ReadTheDocs Tut.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 
 class InvalidKindError(Exception):
@@ -20,4 +20,4 @@ def get_random_ingredients(kind=None):
     :return: The ingredients list.
     :rtype: list[str]
     """
-    return ["shells", "gorgonzola", "parsley"]
+    return ["shells", "gorgonzola", "glorp"]

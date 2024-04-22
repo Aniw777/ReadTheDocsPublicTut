@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Lumache, first install it using plop:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ plop no do not do it
 
 Creating recipes
 ----------------
